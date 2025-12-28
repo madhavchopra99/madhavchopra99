@@ -2,7 +2,7 @@
 
 # Hi there, I'm Madhav Chopra 👋
 
-**System Engineer | Full-Stack Automation & Python Specialist** *Based in Gurugram, Haryana, India*
+**Full-Stack Automation & Python Specialist** *Based in India*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/madhavchopra99)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/madhavchopra99)
